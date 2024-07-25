@@ -1,7 +1,4 @@
 {
-<<<<<<< HEAD
-  "moduleResolution": "node"
-=======
   "compilerOptions": {
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
@@ -26,5 +23,4 @@
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]
->>>>>>> 2006f91 (Initial commit)
 }
