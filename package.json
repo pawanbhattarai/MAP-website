@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "@example/starter",
   "version": "0.0.1",
   "private": true,
@@ -13,5 +14,46 @@
     "@astrojs/sitemap": "^1.0.0",
     "@netlify/netlify-marketing-tokens": "^1.1.0",
     "astro": "^2.0.0"
+=======
+  "name": "next_app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.1.5",
+    "@react-email/tailwind": "^0.0.18",
+    "clsx": "^2.1.1",
+    "dotenv": "^16.4.5",
+    "framer-motion": "^11.3.2",
+    "next": "^14.2.5",
+    "react": "^18.3.1",
+    "react-animated-numbers": "^0.18.0",
+    "react-dom": "^18.3.1",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^5.2.1",
+    "react-intersection-observer": "^9.13.0",
+    "react-slick": "^0.30.2",
+    "react-type-animation": "^3.2.0",
+    "react-vertical-timeline-component": "^3.6.0",
+    "resend": "^3.4.0",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^6.1.11"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/react-vertical-timeline-component": "^3.3.6",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+>>>>>>> 2006f91 (Initial commit)
   }
 }
